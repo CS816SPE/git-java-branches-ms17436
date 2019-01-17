@@ -15,6 +15,9 @@ main()
             cout << num1 - num2; 
             break; 
 
+case '/': 
+            cout << num1 / num2; 
+            break; 
         default: 
             cout << "Error! operator is not correct"; 
             break; 
